@@ -1,0 +1,27 @@
+{
+ "payments": [
+  "visa",
+  "mastercard",
+  "skrill",
+  "neteller",
+  "paysafecard",
+  "paypal",
+  "crypto",
+  "bank-transfer"
+ ],
+ "trust": [
+  "begambleaware",
+  "gcb",
+  "secure-payments",
+  "rapid-ssl",
+  "vantage-club"
+ ],
+ "games": [
+  "01",
+  "05",
+  "11",
+  "13",
+  "21",
+  "23"
+ ]
+}
